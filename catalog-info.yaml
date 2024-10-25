@@ -5,7 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: test-org-pat/bulk-import-test
     backstage.io/managed-by-location: https://github.com/test-org-pat/bulk-import-test/tree/main/catalog-info.yaml
-    backstage.io/source-location: https://github.com/test-org-pat/bulk-import-test/tree/main/
 spec:
   type: other
   lifecycle: unknown
